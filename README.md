@@ -9,6 +9,8 @@
 // Base case: Base case is nothing but the point where you have to stop. 
 // For Example: I want to print the counting of n numbers so my base case here at which no i have to stop.
 
+//Recursive call should align towards the base case.Otherwise it will never reach the base case and that's why it will never end. In short, program will be crashed.
+
 
 **Disadvantages of recursion**
 Recursive functions are generally slower than non-recursive function.
