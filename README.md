@@ -6,9 +6,13 @@
 //Q.  How to solve problems using Recursion?
 //Ans. First and formost one, we need to find out the base case of that problem.
 
+//Q. What are the 2 main basic rules of recursion ?
+
+**Rule 1:**
 // Base case: Base case is nothing but the point where you have to stop. 
 // For Example: I want to print the counting of n numbers so my base case here at which no i have to stop.
 
+**Rule 2:**
 //Recursive call should align towards the base case.Otherwise it will never reach the base case and that's why it will never end. In short, program will be crashed.
 
 
