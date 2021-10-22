@@ -15,6 +15,12 @@
 **Rule 2:**
 //Recursive call should align towards the base case.Otherwise it will never reach the base case and that's why it will never end. In short, program will be crashed.
 
+//Q. What are the different types of Recursion ?
+// Ans. There are basically 2 types of recursion
+**_1. Head recursion_**: In head recursion the recursive call will be made first and then the logic of the function is executed.
+
+**_2. Tail recursion_**: But in tail recursion the logic of the function will be executed first and then the recursive call will be made at the end.
+
 
 **Disadvantages of recursion**
 Recursive functions are generally slower than non-recursive function.
